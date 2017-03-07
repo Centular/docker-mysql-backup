@@ -1,6 +1,8 @@
 About
 =====
 
+https://blog.confirm.ch/backup-mysql-mariadb-docker-container/
+
 The mysql-backup Docker image will provide you a container to backup and restore a [MySQL](https://hub.docker.com/_/mysql/) or [MariaDB](https://hub.docker.com/_/mariadb/) database container.
 
 The backup is made with [mydumper](http://centminmod.com/mydumper.html), a fast MySQL backup utility.
